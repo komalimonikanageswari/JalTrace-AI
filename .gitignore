@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+community_reports.db
+.env
+secrets.toml
